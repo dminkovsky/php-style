@@ -10,7 +10,9 @@ Manage dependencies with [Composer](http://getcomposer.org/).
 
 * HTTP requests: [Guzzle](http://guzzlephp.org/)
 
-## Quoting
+## Code Style
+
+### Quoting
 
 * String literals are defined with single quotes (`''`). 
 * Double quotes (`""`) are used only for string literals that require variable interpolation:
